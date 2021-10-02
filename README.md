@@ -509,7 +509,7 @@ sampleProject
 	|		|----homeController.js
 	|		|----controller1.js
 	|		|----controller2.js
-	|----routes
+	|----Routes
 	|		|	// each controller has its onw route file
 	|		|----homeControllerRoute.js
 	|		|----controller1Route.js
